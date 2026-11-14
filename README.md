@@ -34,6 +34,9 @@ I believe in continuous learning, hands-on development, and turning ideas into w
 - HTML
 - CSS
 - React
+  
+**Backend Development**
+- Node.js
 
 **Databases**
 - PostgreSQL
