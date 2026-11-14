@@ -22,7 +22,6 @@ I believe in continuous learning, hands-on development, and turning ideas into w
 
 **Programming Languages**
 - JavaScript
-- Python
 - SQL
 
 **Automation & AI**
